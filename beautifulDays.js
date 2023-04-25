@@ -22,4 +22,5 @@ const reverse = x => {
     return ret
 }
 
+
 console.log(beautifulDays(20, 23, 6))
